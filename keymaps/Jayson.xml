@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Replace" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="shift meta alt r" />
+  </action>
   <action id="ShowContent" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
