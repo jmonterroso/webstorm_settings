@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
