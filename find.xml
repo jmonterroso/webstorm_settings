@@ -13,15 +13,12 @@
       <mask>*.js, *.html, *.json</mask>
       <mask>*.js, *.html, *.json, *.scss</mask>
       <mask>*.liquid</mask>
-      <mask>*.js</mask>
       <mask>/</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>«</mask>
-      <mask>*</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
-      <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.ht</mask>
@@ -31,9 +28,12 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
