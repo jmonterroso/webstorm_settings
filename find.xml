@@ -3,16 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.liquid" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.js, *.html</mask>
       <mask>*.js, *.html, *.json</mask>
       <mask>*.js, *.html, *.json, *.scss</mask>
-      <mask>*.liquid</mask>
       <mask>/</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -34,6 +31,10 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>l</mask>
+      <mask>li</mask>
+      <mask>liqui</mask>
+      <mask>*.liquid</mask>
     </recentFileMasks>
   </component>
 </application>
