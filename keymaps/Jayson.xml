@@ -14,6 +14,9 @@
   <action id="Git.Revert">
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
