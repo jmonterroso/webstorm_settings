@@ -1,0 +1,93 @@
+<application>
+  <component name="TextMateSettings">
+    <option name="bundles">
+      <list>
+        <BundleConfigBean>
+          <option name="name" value="Ruby" />
+          <option name="path" value="$USER_HOME$/Documents/Projects/ruby.tmbundle" />
+        </BundleConfigBean>
+      </list>
+    </option>
+    <option name="themesMapping">
+      <map>
+        <entry key="Arstotzka" value="Mac Classic" />
+        <entry key="Azure" value="Mac Classic" />
+        <entry key="Bold" value="Mac Classic" />
+        <entry key="Box UK" value="Mac Classic" />
+        <entry key="Carbonight" value="Mac Classic" />
+        <entry key="Chocolate" value="Mac Classic" />
+        <entry key="Crisp" value="Mac Classic" />
+        <entry key="Darcula Modified" value="Mac Classic" />
+        <entry key="Darcula@" value="Mac Classic" />
+        <entry key="Darkside" value="Mac Classic" />
+        <entry key="Earthsong" value="Mac Classic" />
+        <entry key="FreshCut" value="Mac Classic" />
+        <entry key="Frontier" value="Mac Classic" />
+        <entry key="Github" value="GitHub" />
+        <entry key="Gloom" value="Mac Classic" />
+        <entry key="Glowfish" value="Mac Classic" />
+        <entry key="Goldfish" value="Mac Classic" />
+        <entry key="Grunge" value="Mac Classic" />
+        <entry key="Halflife" value="Mac Classic" />
+        <entry key="Heroku" value="Mac Classic" />
+        <entry key="Hyrule" value="Mac Classic" />
+        <entry key="Iceberg" value="Mac Classic" />
+        <entry key="Juicy" value="Mac Classic" />
+        <entry key="Keen" value="Mac Classic" />
+        <entry key="Kiwi" value="Mac Classic" />
+        <entry key="Laravel" value="Mac Classic" />
+        <entry key="Lavender" value="Mac Classic" />
+        <entry key="Legacy" value="Mac Classic" />
+        <entry key="Material Theme" value="Mac Classic" />
+        <entry key="Material Theme @" value="Mac Classic" />
+        <entry key="Mellow" value="Mac Classic" />
+        <entry key="Mintchoc" value="Mac Classic" />
+        <entry key="Monokai@" value="Mac Classic" />
+        <entry key="Mud" value="Mac Classic" />
+        <entry key="Otakon" value="Mac Classic" />
+        <entry key="Pastel" value="Mac Classic" />
+        <entry key="Patriot" value="Mac Classic" />
+        <entry key="Peacock" value="Mac Classic" />
+        <entry key="Peacock@" value="Mac Classic" />
+        <entry key="Peacocks In Space" value="Mac Classic" />
+        <entry key="Peacocks In Space@" value="Mac Classic" />
+        <entry key="Peel" value="Mac Classic" />
+        <entry key="Piggy" value="Mac Classic" />
+        <entry key="Potpourri" value="Mac Classic" />
+        <entry key="Pro" value="Mac Classic" />
+        <entry key="Rainbow" value="Mac Classic" />
+        <entry key="Revelation" value="Mac Classic" />
+        <entry key="Shrek" value="Mac Classic" />
+        <entry key="Slate" value="Mac Classic" />
+        <entry key="Slime" value="Mac Classic" />
+        <entry key="Snappy" value="Mac Classic" />
+        <entry key="Solarflare" value="Mac Classic" />
+        <entry key="Sourlick" value="Mac Classic" />
+        <entry key="Spearmint" value="Mac Classic" />
+        <entry key="Stark" value="Mac Classic" />
+        <entry key="Super" value="Mac Classic" />
+        <entry key="Tonic" value="Mac Classic" />
+        <entry key="Tribal" value="Mac Classic" />
+        <entry key="Tron" value="Mac Classic" />
+        <entry key="Turnip" value="Mac Classic" />
+        <entry key="Yule" value="Mac Classic" />
+        <entry key="Zacks" value="Mac Classic" />
+        <entry key="_@user_All hallow's eve" value="Mac Classic" />
+        <entry key="_@user_Blackboard" value="Mac Classic" />
+        <entry key="_@user_Cobalt" value="Mac Classic" />
+        <entry key="_@user_Darcula" value="Mac Classic" />
+        <entry key="_@user_Default" value="Mac Classic" />
+        <entry key="_@user_Material Theme - Darker" value="Mac Classic" />
+        <entry key="_@user_Material Theme - Default" value="Mac Classic" />
+        <entry key="_@user_Material Theme - Lighter" value="Mac Classic" />
+        <entry key="_@user_Material Theme - One Dark" value="Mac Classic" />
+        <entry key="_@user_Material Theme - Palenight" value="Mac Classic" />
+        <entry key="_@user_Monokai" value="Mac Classic" />
+        <entry key="_@user_Railscasts" value="Mac Classic" />
+        <entry key="_@user_Twilight" value="Mac Classic" />
+        <entry key="_@user_VibrantInk" value="Mac Classic" />
+        <entry key="_@user_WarmNeon" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>
