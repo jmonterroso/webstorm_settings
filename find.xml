@@ -5,15 +5,13 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>«</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.ht</mask>
       <mask>*.c</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -24,7 +22,6 @@
       <mask>liqui</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.htm</mask>
       <mask>*.html\</mask>
       <mask>*.l</mask>
       <mask>*.liq</mask>
@@ -32,9 +29,13 @@
       <mask>*.liquid</mask>
       <mask>*</mask>
       <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
+      <mask>*.thtml</mask>
+      <mask>*.tshtml</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
