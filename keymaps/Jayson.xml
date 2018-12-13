@@ -55,6 +55,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="osmedile.intellij.stringmanip.DecrementAction">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
