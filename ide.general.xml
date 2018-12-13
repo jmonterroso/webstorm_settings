@@ -7,5 +7,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="js.debugger.v8.use.any.breakpoint" value="false" />
     <entry key="ide.tooltip.show.with.actions" value="true" />
+    <entry key="ide.editor.tabs.open.at.the.end" value="true" />
   </component>
 </application>
