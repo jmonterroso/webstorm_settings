@@ -12,11 +12,11 @@
     <mask>*.graphql</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
-    <mask>*.ds</mask>
     <mask>*.js, *.isml</mask>
     <mask>*.properties</mask>
     <mask>*.scss</mask>
     <mask>*.isml</mask>
     <mask>*.js</mask>
+    <mask>*.ds</mask>
   </component>
 </application>
