@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.isml" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -16,9 +17,9 @@
     <mask>*.js, *.isml</mask>
     <mask>*.ds</mask>
     <mask>*.js</mask>
-    <mask>*.isml</mask>
     <mask>*.properties</mask>
     <mask>*.scss</mask>
     <mask>*.xml</mask>
+    <mask>*.isml</mask>
   </component>
 </application>
