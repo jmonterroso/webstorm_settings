@@ -16,7 +16,7 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.isml</mask>
-    <mask>*.scss</mask>
     <mask>*.ds</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
