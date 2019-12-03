@@ -14,10 +14,10 @@
     <mask>*.html</mask>
     <mask>*.js, *.isml</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
-    <mask>*.isml</mask>
     <mask>*.ds</mask>
     <mask>*.scss</mask>
+    <mask>*.xml</mask>
+    <mask>*.isml</mask>
     <mask>*.js</mask>
   </component>
 </application>
