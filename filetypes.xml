@@ -7,9 +7,9 @@
       <mapping pattern=".tern-project" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
