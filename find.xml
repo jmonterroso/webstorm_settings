@@ -20,5 +20,6 @@
     <mask>*.isml</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
+    <mask>*.json</mask>
   </component>
 </application>
