@@ -12,12 +12,12 @@
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.js, *.isml</mask>
-    <mask>*.properties</mask>
-    <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.isml</mask>
     <mask>*.ds</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
