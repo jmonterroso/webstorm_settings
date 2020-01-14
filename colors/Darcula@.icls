@@ -1,17 +1,18 @@
 <scheme name="Darcula@" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-14T11:20:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-14T11:21:18</property>
+    <property name="modified">2020-01-14T17:49:27</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <attributes>
     <option name="DEFAULT_KEYWORD">
       <value>
