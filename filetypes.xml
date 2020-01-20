@@ -12,6 +12,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
+      <mapping pattern="falIcons" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
