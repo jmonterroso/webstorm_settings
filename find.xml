@@ -14,11 +14,11 @@
     <mask>*.json</mask>
     <mask>*.isml</mask>
     <mask>*.ds</mask>
-    <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
