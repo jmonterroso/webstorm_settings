@@ -20,5 +20,6 @@
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>.scss</mask>
   </component>
 </application>
