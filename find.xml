@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -16,10 +17,10 @@
     <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>.scss</mask>
     <mask>*.ds</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
