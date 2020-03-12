@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ds" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -14,13 +14,13 @@
     <mask>*.js, *.isml</mask>
     <mask>*.json</mask>
     <mask>*.isml</mask>
-    <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>.scss</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.ds</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
