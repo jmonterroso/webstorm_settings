@@ -18,8 +18,8 @@
     <mask>.scss</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.ds</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.ds</mask>
   </component>
 </application>
