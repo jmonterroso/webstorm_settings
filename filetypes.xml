@@ -3,18 +3,18 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="ds" type="JavaScript" />
-      <mapping ext="variables" type="Less" />
       <mapping ext="overrides" type="Less" />
+      <mapping ext="variables" type="Less" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".tern-project" type="PLAIN_TEXT" />
       <mapping pattern="maskCC" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping pattern="falIcons" type="TypeScript" />
       <mapping ext="liquid" type="Twig" />
+      <mapping pattern="falIcons" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
