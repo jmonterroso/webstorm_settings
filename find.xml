@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="WEBDEV-1011" />
+    <option name="defaultScopeName" value="WEBDEV-1011" />
+    <option name="SEARCH_SCOPE" value="WEBDEV-1011" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
