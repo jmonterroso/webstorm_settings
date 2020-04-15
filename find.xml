@@ -17,9 +17,9 @@
     <mask>.scss</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
-    <mask>*.tsx</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.ds</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
