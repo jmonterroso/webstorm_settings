@@ -19,7 +19,7 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.ds</mask>
     <mask>*.tsx</mask>
+    <mask>*.ds</mask>
   </component>
 </application>
