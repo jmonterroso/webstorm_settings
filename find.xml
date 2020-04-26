@@ -21,5 +21,6 @@
     <mask>*.properties</mask>
     <mask>*.tsx</mask>
     <mask>*.ds</mask>
+    <mask>*.md</mask>
   </component>
 </application>
