@@ -19,7 +19,8 @@
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.tsx</mask>
-    <mask>*.isml</mask>
     <mask>*.ds</mask>
+    <mask>*.md</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
