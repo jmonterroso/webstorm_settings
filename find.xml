@@ -18,12 +18,12 @@
     <mask>*.scss</mask>
     <mask>*.properties</mask>
     <mask>*.tsx</mask>
-    <mask>*.ds</mask>
     <mask>*.md</mask>
     <mask>*.tsx</mask>
     <mask>*.properties</mask>
     <mask>*.isml</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
+    <mask>*.ds</mask>
   </component>
 </application>
