@@ -3,7 +3,7 @@
     <option name="customScope" value="Active Changelist" />
     <option name="defaultScopeName" value="Active Changelist" />
     <option name="SEARCH_SCOPE" value="Active Changelist" />
-    <option name="FILE_MASK" value="*.ds" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -16,15 +16,15 @@
     <mask>*.ts</mask>
     <mask>.scss</mask>
     <mask>*.scss</mask>
-    <mask>*.properties</mask>
     <mask>*.tsx</mask>
     <mask>*.md</mask>
     <mask>*.tsx</mask>
     <mask>*.properties</mask>
-    <mask>*.isml</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
     <mask>*.ds</mask>
+    <mask>*.isml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
