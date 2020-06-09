@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Active Changelist" />
+    <option name="defaultScopeName" value="Active Changelist" />
+    <option name="SEARCH_SCOPE" value="Active Changelist" />
+    <option name="FILE_MASK" value="*.ds" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -21,9 +22,9 @@
     <mask>*.tsx</mask>
     <mask>*.properties</mask>
     <mask>*.isml</mask>
-    <mask>*.ds</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
+    <mask>*.ds</mask>
   </component>
 </application>
