@@ -19,12 +19,12 @@
     <mask>*.tsx</mask>
     <mask>*.md</mask>
     <mask>*.tsx</mask>
-    <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
     <mask>*.ds</mask>
     <mask>*.isml</mask>
+    <mask>*.properties</mask>
     <mask>*.properties</mask>
   </component>
 </application>
