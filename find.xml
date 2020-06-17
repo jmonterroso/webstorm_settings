@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Active Changelist" />
-    <option name="defaultScopeName" value="Active Changelist" />
-    <option name="SEARCH_SCOPE" value="Active Changelist" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
