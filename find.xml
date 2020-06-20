@@ -14,16 +14,16 @@
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>.scss</mask>
-    <mask>*.xml</mask>
-    <mask>*.scss</mask>
-    <mask>*.properties</mask>
     <mask>*.tsx</mask>
     <mask>*.md</mask>
     <mask>*.tsx</mask>
-    <mask>*.properties</mask>
-    <mask>*.isml</mask>
-    <mask>*.js</mask>
-    <mask>*.js</mask>
+    <mask>*.xml</mask>
     <mask>*.ds</mask>
+    <mask>*.isml</mask>
+    <mask>*.properties</mask>
+    <mask>*.properties</mask>
+    <mask>*.js</mask>
+    <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
