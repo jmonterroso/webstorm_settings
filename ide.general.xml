@@ -9,5 +9,6 @@
     <entry key="js.debugger.v8.use.any.breakpoint" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="js.debugger.webconsole" value="false" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
