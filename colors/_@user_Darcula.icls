@@ -3,7 +3,7 @@
     <property name="created">2019-03-14T19:41:36</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-03-15T07:39:02</property>
+    <property name="modified">2020-06-26T11:13:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -11,6 +11,31 @@
       <value>
         <option name="FOREGROUND" value="cc7832" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
