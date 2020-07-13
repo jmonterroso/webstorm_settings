@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="3932b8d4fd3583fc2a4a2babd581bd8a" type="Image" />
       <mapping ext="ds" type="JavaScript" />
       <mapping ext="overrides" type="Less" />
       <mapping ext="variables" type="Less" />
