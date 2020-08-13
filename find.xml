@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../order-confirmation-dso.html'" />
-    <option name="defaultScopeName" value="File '.../order-confirmation-dso.html'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../order-confirmation-dso.html'" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
